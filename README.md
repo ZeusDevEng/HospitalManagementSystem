@@ -20,12 +20,3 @@ Scope
 4- Delete records
 5- View records 
 6- Update records 
-
-
-Design:
-![image](https://user-images.githubusercontent.com/75123295/188405714-48f5f5e1-9aef-44df-a0b5-e5aa6b7ca645.png)
-![image](https://user-images.githubusercontent.com/75123295/188405794-252c1d28-03a5-436f-b261-82583ed0bf33.png)
-![image](https://user-images.githubusercontent.com/75123295/188405818-36b60ba6-69ea-469e-831a-c741decccb89.png)
-![image](https://user-images.githubusercontent.com/75123295/188405830-c78279c5-3838-4428-a1f9-38954fb6bea9.png)
-Flow chart:
-![image](https://user-images.githubusercontent.com/75123295/188405907-a6601d76-b557-4d5b-95f1-7eed73bab401.png)
